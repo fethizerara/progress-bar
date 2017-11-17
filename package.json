@@ -14,7 +14,11 @@
     "babel-preset-react": "6.24.1",
     "webpack": "3.8.1"
   },
+<<<<<<< HEAD
   "scripts": {
+=======
+  scripts: {
+>>>>>>> 3be6b994a2894632832bc33c38350e9311bec9a6
 	"build": "webpack"
   }
 }
